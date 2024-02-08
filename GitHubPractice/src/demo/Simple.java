@@ -6,7 +6,13 @@ public class Simple {
 		// TODO Auto-generated method stub
 		System.out.println("hiiii");
 		System.out.println("hiiii");
+		System.out.println("hiiii");
 
+
+		System.out.println("hiiii");
+		System.out.println("hiiii");
+		System.out.println("hiiii");
+		System.out.println("hiiii");	
 
 	}
 
